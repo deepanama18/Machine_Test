@@ -51,7 +51,7 @@ function LoginForm() {
                   type="text"
                   className="form-control"
                   name="email"
-                  // required
+                  required
                   onChange={handleChange}
                   placeholder="Enter email address"
                   id="exampleInputEmail1"
