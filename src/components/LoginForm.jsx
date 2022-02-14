@@ -32,7 +32,7 @@ function LoginForm() {
 
       navigate("/listform");
     } else {
-      alert("Please enter valide details");
+      alert("Please enter valid details");
     }
   };
 
